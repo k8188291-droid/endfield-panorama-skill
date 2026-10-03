@@ -1,0 +1,13 @@
+{
+  "name": "endfield-22mm-tested-2026-10-03",
+  "axis": 0.6,
+  "settle": 0.8,
+  "rows": [
+    {"name": "middle", "pitch_seconds": 0.0, "count": 18, "yaw_seconds": 0.25},
+    {"name": "upper", "pitch_seconds": 0.5, "count": 16, "yaw_seconds": 0.25},
+    {"name": "zenith", "pitch_seconds": 0.38, "count": 7, "yaw_seconds": 0.6},
+    {"name": "lower", "pitch_seconds": -1.3, "count": 16, "yaw_seconds": 0.25},
+    {"name": "nadir", "pitch_seconds": -0.43, "count": 7, "yaw_seconds": 0.6}
+  ],
+  "restore_pitch_seconds": 0.85
+}

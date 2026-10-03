@@ -1,0 +1,4 @@
+interface:
+  display_name: "終末地實拍全景"
+  short_description: "用虛擬手柄拍攝終末地真實畫面，拼成可離線環視的 360 度全景"
+  default_prompt: "使用 $endfield-panorama，在我目前的終末地相機位置拍攝完整全景，保留 NPC，並提供環視 HTML 與 PNG。"

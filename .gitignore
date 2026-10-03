@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+deps/
+queue/
+screenshots/
+captures/
+captures-*/
+output/
+*.log
+server.lock
+status.json
+last-run.json
